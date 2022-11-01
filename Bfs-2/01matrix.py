@@ -1,3 +1,7 @@
+#Time_Complexity: O(mn)
+#Space_Complexity: O(n)
+
+
 class Solution:
     def updateMatrix(self, mat: List[List[int]]) -> List[List[int]]:
         # row and column is inneed incase of  matrix problem
